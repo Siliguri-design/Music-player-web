@@ -18,7 +18,7 @@
 
 
   <a href="https://wa.me/qr/ONS6OC44U2MJB1">
-    <img src="https://img.shields.io/badge/WhatsApp-blue?style=for-the-badge&logo=WhatsApp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-yellow?style=for-the-badge&logo=WhatsApp&logoColor=black" />
   </a>&nbsp;
   
   
