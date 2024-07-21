@@ -15,7 +15,7 @@ function togglePlayPause(pathClass) {
     for (var i = 0; i < paths.length; i++) {
         paths[i].classList.toggle('active');
     }
-    if (isPlaying) { 
+    if (isPlaying) {
         audio.pause();
         cancelAnimationFrame(animationFrame);
     }
