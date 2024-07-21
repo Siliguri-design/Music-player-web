@@ -4,9 +4,8 @@
 <img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="500" />
  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=My+Name+Anjan+Dhar;Visit us;+✨️🧑‍💻Anjan Dhar✨️🧑‍💻;Thank you" alt="Typing SVG" /></a>   
-
+<h1 align="center"><b>✨️🧑‍💻live Demo✨️🧑‍💻</b>
 </p>
-
 <br>
 <div align="center">
 <a href='https://anjan-player.vercel.app/' target="_blank"><img alt='✨️🧑‍💻Aɳʝαɳ ʂҽɾ✨️🧑‍💻' src='https://img.shields.io/badge/✨️Anjan dhar✨️_-10000000?style=for-the-badge&logo= ✨️🧑‍💻Aɳʝαɳ ԃԋαɾ✨️🧑‍💻&logoColor=white&labelColor=darkred&color=darkblue'/></a>
