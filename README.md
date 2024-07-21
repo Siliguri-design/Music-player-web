@@ -10,7 +10,6 @@
 <br>
 
 
-
 <h1 align="center"><b>Reach Me Out </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="55"></h1>
 
 
